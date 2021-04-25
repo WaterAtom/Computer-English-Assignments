@@ -6,7 +6,7 @@ This is 21181525杨建华's marketdown file.
 ***
 ## 图片
 #### 目录中的图片
-![octocat](./目录图片.png)
+![octocat](./photo.png)
 #### 网络图片
 ![repo-settings-image](https://bkimg.cdn.bcebos.com/pic/6a600c338744ebf8226d5703d4f9d72a6059a7e9?x-bce-process=image/watermark,image_d2F0ZXIvYmFpa2U5Mg==,g_7,xp_5,yp_5/format,f_auto)
 ***
