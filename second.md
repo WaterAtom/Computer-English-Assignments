@@ -1,6 +1,5 @@
-# Welcome to My Second Page
+# 第二个md文件
 
-This is 21181525's second marketdown for computer english.
 
-如果你想回到第一个markd，点击[这里](./README.md)。
+[第一个md文件](./README.md)。
 
