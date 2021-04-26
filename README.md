@@ -16,9 +16,10 @@
 ```cpp
 #include <iostream>
 using namespace std;
-int main(){
-cout<<"Hello World!";
-return 0;
+int main(void)
+{
+  cout<<"Hello World!";
+  return 0;
 }
 ```
 ***
